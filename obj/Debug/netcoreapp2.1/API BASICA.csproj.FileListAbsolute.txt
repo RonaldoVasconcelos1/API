@@ -1,0 +1,14 @@
+C:\Users\ronal\OneDrive\Desktop\API BASICA\bin\Debug\netcoreapp2.1\API BASICA.deps.json
+C:\Users\ronal\OneDrive\Desktop\API BASICA\bin\Debug\netcoreapp2.1\API BASICA.runtimeconfig.json
+C:\Users\ronal\OneDrive\Desktop\API BASICA\bin\Debug\netcoreapp2.1\API BASICA.runtimeconfig.dev.json
+C:\Users\ronal\OneDrive\Desktop\API BASICA\bin\Debug\netcoreapp2.1\API BASICA.dll
+C:\Users\ronal\OneDrive\Desktop\API BASICA\bin\Debug\netcoreapp2.1\API BASICA.pdb
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.csprojAssemblyReference.cache
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.RazorAssemblyInfo.cache
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.RazorAssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.AssemblyInfoInputs.cache
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.AssemblyInfo.cs
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.RazorTargetAssemblyInfo.cache
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.dll
+C:\Users\ronal\OneDrive\Desktop\API BASICA\obj\Debug\netcoreapp2.1\API BASICA.pdb
